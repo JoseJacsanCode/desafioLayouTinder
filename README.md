@@ -81,7 +81,7 @@ Sugestões e melhorias são bem-vindas! Abra uma *issue* ou envie um *pull reque
 
 ## 📄 Licença
 
-Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob a licença **GPLv3**. Veja o arquivo [LICENSE](https://github.com/JoseJacsanCode/desafioLayouTinder/blob/main/LICENSE) para mais detalhes.
 
 ## 👨‍💻 Autor
 
