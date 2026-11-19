@@ -7,17 +7,16 @@ O objetivo é praticar a construção de interfaces em Flutter, reproduzindo fie
 ## 📸 Preview
 
 <p align="center">
-  <img src="assets/layout-tinder.png" alt="Print do projeto Layout Tinder" width="300">
+  <img src="https://github.com/JoseJacsanCode/desafioLayouTinder/blob/main/tinder%20tela.png" alt="Print do projeto Layout Tinder" width="300">
 </p>
 
-> Se a imagem estiver em outra pasta, ajuste o caminho acima.
+> Print tirado do [vídeo](https://www.youtube.com/watch?v=9zkKGkFj3qg) do canal Flutterando.
 
 ## ✨ O que foi praticado
 
-- Composição de layouts com `Column`, `Row`, `Stack`, `Expanded` e `Container`
-- Estilização com `BoxDecoration`, bordas arredondadas, gradientes e sombras
-- Uso de imagens locais (`assets`)
-- Ícones e botões circulares de ação (curtir, descartar, super like...)
+- Composição de layouts com `Column`
+- Uso de imagenm local (`assets`)
+- Estilização de textos e do botão elevatedButton
 - Organização do código em `lib/`
 
 ## 🛠️ Tecnologias
@@ -30,11 +29,17 @@ O objetivo é praticar a construção de interfaces em Flutter, reproduzindo fie
 ```
 desafioLayouTinder/
 ├── android/ ios/ web/ linux/ macos/ windows/   # Plataformas suportadas pelo Flutter
-├── assets/                                     # Imagens do projeto
+├── assets/                                     # Logo do projeto
 ├── lib/                                        # Código-fonte da aplicação
 ├── pubspec.yaml                                # Dependências e configuração dos assets
 └── README.md
 ```
+
+### ✅ Resultado final
+
+<p align="center">
+  <img src="https://github.com/JoseJacsanCode/desafioLayouTinder/blob/main/resultado%20final.png" alt="Print do projeto Layout Tinder feito em Flutter" width="300">
+</p>
 
 ## 🚀 Como executar
 
@@ -63,12 +68,6 @@ flutter pub get
 
 # 4. Execute o app
 flutter run
-```
-
-Para rodar no navegador:
-
-```bash
-flutter run -d chrome
 ```
 
 ## 🎯 Sobre o desafio
